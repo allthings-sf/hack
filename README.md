@@ -55,7 +55,7 @@ So say how to run it, and make sure that works from a fresh clone.
 
 ## For maintainers
 
-This repository is the source of truth every at/hack starts from. The rule above is copied word for word from `core/src/formats.ts` in [allthingsweb-dev/allthingsweb](https://github.com/allthingsweb-dev/allthingsweb); when it changes there, it changes here.
+This repository is the source of truth every at/hack starts from. The rule above is copied word for word from `core/src/formats.ts` in [allthings-sf/allthingsweb](https://github.com/allthings-sf/allthingsweb); when it changes there, it changes here.
 
 Versions follow [semver](https://semver.org):
 
